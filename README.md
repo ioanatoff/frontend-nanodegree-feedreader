@@ -11,7 +11,7 @@ Open index.html to run the application.
 
 **Feed Reader Testing**
 
-At the bottom of the page you can see the unit tests results.
+At the bottom of the page you can see the tests results.
 
 ## Dependencies
 
